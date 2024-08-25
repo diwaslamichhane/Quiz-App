@@ -48,7 +48,7 @@ const questions = [
         question: "What is the square root of 64?",
         answers: [
             { text: "54", correct: false},
-            { text: "4", correct: true},
+            { text: "8", correct: true},
             { text: "74", correct: false},
             { text: "84", correct: false},
         ]
